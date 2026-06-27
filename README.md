@@ -68,13 +68,4 @@ The dashboard can also be filtered to analyze individual regions or states.
 
 The analysis identified several important business trends.
 
-California generated the highest total sales, making it one of the company's strongest markets and an important region for future customer retention efforts.
-
-Technology products produced the highest overall profit, demonstrating that product profitability does not always align with total sales volume and should be considered separately when evaluating performance.
-
-The Consumer segment generated the largest share of revenue, indicating that it represents the company's primary customer base.
-
-Customer purchasing patterns also showed that a relatively small number of customers contributed a disproportionately large share of total sales, highlighting the importance of maintaining relationships with high value customers.
-
-Monthly sales and profit trends indicated consistent business growth during the period analyzed.
 
